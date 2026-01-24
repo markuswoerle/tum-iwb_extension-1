@@ -21,7 +21,7 @@ The following files contain the input data of the case study described in the pa
 ### Forecast
 The following files contain the calculations of the electricity emission factors (forecasted and actual) used in the case study described in the paper::
 - electricity_emission_factors_2024.xlsx
-- electricity_emission_factors_forecast.xlsx
+- electricity_emission_factors_forecasted.xlsx
 - electricity_emission_factors_actual.xlsx
 
 ## Acknowledgements
