@@ -18,6 +18,12 @@ The following files contain the input data of the case study described in the pa
 - electricity_emission_factors_forecasted.csv
 - electricity_emission_factors_actual.csv
 
+### Forecast
+The following files contain the calculations of the electricity emission factors (forecasted and actual):
+- electricity_emission_factors_2024.xlsx
+- electricity_emission_factors_forecast.xlsx
+- electricity_emission_factors_actual.xlsx
+
 ## Acknowledgements
 This research was funded by the German Federal Ministry of Research, Technology and Space (BMFTR) as part of the Kopernikus project SynErgie (03SFK3E1-3).
 
