@@ -1,5 +1,5 @@
 # Research Data
-This repository contains the research data used in the manuscript "Dynamic Day-Ahead Performance Benchmarking of Electrified and Hybrid Process Heat Generation for an Efficient Thermal Energy Supply" by Markus Woerle, Jan Geier, Sarah Schoendorfer, Moritz Eder, Sarah Wagner, Christina Reuter, and Michael F. Zaeh (under Review, IEEE ICECET 2026; DOI: tbd.).
+This repository contains the research data used in the manuscript "Dynamic Day-Ahead Performance Benchmarking of Hybrid Electrified Process Heat Generation for an Efficient Thermal Energy Supply" by Markus Woerle, Jan Geier, Sarah Schoendorfer, Moritz Eder, Sarah Wagner, Christina Reuter, and Michael F. Zaeh (under Review, IEEE ICECET 2026; DOI: tbd.).
 
 ## Contact
 Markus Woerle (markus.woerle@iwb.tum.de)
